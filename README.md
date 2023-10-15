@@ -1,6 +1,7 @@
 # Portfolio website
  
 A portfolio website built with next js, typeScript, Tailwind CSS and framer motion.
+The stand out features are dark mode and email.
 
 ![Screenshot (391)](https://github.com/Eduardq/Portfolio-website/assets/104719717/19e72034-0c61-4af5-8c39-b5101582ed27)
 
